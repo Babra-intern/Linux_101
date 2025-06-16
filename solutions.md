@@ -1,4 +1,4 @@
-# Excercise 1
+# Exercise 1
 `touch` is used to create files without content whereas `cat` command is used to create the file with content
 
 ![Alt text](images/Exercise%201.PNG)
@@ -11,7 +11,7 @@ File permissions and ownership control the access level that users and processes
 The various ways of displaying the file permissions in linux:
 
 `ls -l example.txt`
-`namei -l /path/to/example.txt`
+`stat <filename> | awk '{print $3}'`
 
 default permission for file   =  `Rw-rw-r–`
 
@@ -30,13 +30,13 @@ default permission for folder =  `Rwx`
 ![Alt text](images/Exercise%203.PNG)
 
 
-# Excercise 4 
+# Exercise 4 
 
-(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 3,'with solution for Excercise 4)
+(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 3,'with solution for Exercise 4)
 ![Alt text](images/Exercise%203.PNG)
 
 
-# Excercise 5
+# Exercise 5
 
 The search command is  `grep`
 
@@ -46,18 +46,18 @@ The search command is  `grep`
 
 
 
-# Excercise 6
+# Exercise 6
  ### command to list all files in a directory
  `ls`
 
 Directory - Location for storing files on a computer
 
-# Excercise 7 
+# Exercise 7 
 `pwd` - print working directory 
 
 Echo is a command that outputs the strings that are passed to it as arguments whereas cd is to change directory
 
-# Excercise 8 
+# Exercise 8 
 `dirs` - The dirs command is used to display and manipulate the directory stack in command-line interfaces gives the current wworking directory
 
 The dirs  displays a list of files and subdirectories in a specific directory
@@ -67,7 +67,7 @@ The dirs  displays a list of files and subdirectories in a specific directory
 `mv --help` gives more information about the `mv`command
 
 
-# Excercise 9 
+# Exercise 9 
 (Refer to the image in the 'images' folder, specifically the screenshot named `Exercise 9`,print out the current day in the terminal.)
 
 ![Alt text](images/Exercise%209.PNG)
@@ -75,7 +75,7 @@ The dirs  displays a list of files and subdirectories in a specific directory
 
 `Grep` is ideal for simple searches, whereas `Awk` provides advanced capabilities for more complex tasks.
 
-# Excercise 10 
+# Exercise 10 
 Environment variables are global system variables that are available to all users and programs running on the system
 
 Examples of env varaiable :
@@ -85,11 +85,11 @@ Examples of env varaiable :
 
 `less`: both forward and backward navigation and also has search options. 
 
-# Excerckse 11
+# Exercise 11
 
 `file filename.txt`
 
-# Excercise 12 
+# Exercise 12 
 
 The Unix filesystem tree is called the Filesystem Hierarchy Standard (FHS).
 
@@ -101,7 +101,7 @@ The Unix filesystem tree is called the Filesystem Hierarchy Standard (FHS).
 
 
 
-# Excercise 13 
+# Exercise 13 
 Head - to display the first 10 lines of a file named
 
 Tail - to display the last 10 lines of a file named
@@ -111,16 +111,16 @@ Tail - to display the last 10 lines of a file named
 ![Alt text](images/Exercise%2013.PNG)
 
 
-# Excercise 14 
+# Exercise 14 
 
-(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 14, which shows all the solutions to Excercise 14)
+(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 14, which shows all the solutions to Exercise 14)
 
 ![Alt text](images/Exercise%2014.PNG)
 
 
-# Excercise 15
+# Exercise 15
 
-(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 15, which shows all the solutions to Excercise 15)
+(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 15, which shows all the solutions to Exercise 15)
 
 ![Alt text](images/Exercise%2015.PNG)
 
