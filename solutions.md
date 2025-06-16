@@ -24,23 +24,18 @@ default permission for folder =  `Rwx`
 # Exercise 3 :
 ### Command to print the number of lines, words and characters in a file.
    `wc` 
-   
-(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 3,' which shows how to print the number of lines, words and characters in a file.)
 
 ![Alt text](images/Exercise%203.PNG)
 
 
 # Exercise 4 
 
-(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 3,'with solution for Exercise 4)
 ![Alt text](images/Exercise%203.PNG)
 
 
 # Exercise 5
 
 The search command is  `grep`
-
-(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 5,'which shows the search for the words, `Nutshell`, `Perl` and `Dansoman` in `animals.txt`)
 
 ![Alt text](images/Exercise%205.PNG)
 
@@ -68,7 +63,6 @@ The dirs  displays a list of files and subdirectories in a specific directory
 
 
 # Exercise 9 
-(Refer to the image in the 'images' folder, specifically the screenshot named `Exercise 9`,print out the current day in the terminal.)
 
 ![Alt text](images/Exercise%209.PNG)
 
@@ -99,28 +93,22 @@ The Unix filesystem tree is called the Filesystem Hierarchy Standard (FHS).
 
 `/etc`
 
-
-
 # Exercise 13 
 Head - to display the first 10 lines of a file named
 
 Tail - to display the last 10 lines of a file named
 
-(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 13,'which shows `head` and `tail` is used in the terminal)
 
 ![Alt text](images/Exercise%2013.PNG)
 
 
 # Exercise 14 
 
-(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 14, which shows all the solutions to Exercise 14)
 
 ![Alt text](images/Exercise%2014.PNG)
 
 
 # Exercise 15
-
-(Refer to the image in the 'images' folder, specifically the screenshot named 'Exercise 15, which shows all the solutions to Exercise 15)
 
 ![Alt text](images/Exercise%2015.PNG)
 
